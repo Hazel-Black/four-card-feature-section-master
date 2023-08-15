@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  /*text settings*/
+  --font: Poppins, sans serif;
+  --par-size: 1rem;
+  --body-weight: 400;
+  --h1-weight: 200;
+  --h3-h4-weight: 600;
+
+  /*color settings*/
+  --bg: hsl(0, 0%, 98%) ;
+  --box-1-border: hsl(180, 62%, 55%);
+  --box-2-border: hsl(0, 78%, 62%);
+  --box-3-border: hsl(34, 97%, 64%);
+  --box-4-border: hsl(212, 86%, 64%);
+  --heading-color: hsl(234, 12%, 34%);
+  --body-color: hsl(229, 6%, 66%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
