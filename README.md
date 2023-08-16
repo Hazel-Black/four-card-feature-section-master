@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/html5-css-mobile-first-custom-properties-flexbox-responsive-WQqTT3CL7X)
+- Live Site URL: [Live Site](https://hazel-black.github.io/four-card-feature-section-master/)
 
 
 ### Built with
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@HazelBlack](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@HazelBlack](https://www.frontendmentor.io/profile/Hazel-Black)
 
 
